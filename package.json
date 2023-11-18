@@ -1,0 +1,16 @@
+{
+  "name": "app-testaveis-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Lussati Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "vitest": "^0.34.6"
+  }
+}
